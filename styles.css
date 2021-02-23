@@ -1,0 +1,54 @@
+/* CSS Document */
+
+body{
+	background-color: white;
+}
+
+button{
+	font-size: 30px;
+	background-color: lightblue;
+}
+
+h1,h2{
+	color: darkslateblue;
+}
+
+#signup{
+	backgroud-color: darkslateblue;
+	color: white;
+}
+
+span{
+	color: slategray;
+}
+
+.tag{
+	background-color: red;
+	color: white;
+	font-size: 16px;
+}
+
+.post a{
+	color: lightblue;
+}
+
+footer a{
+	color: red;
+}
+
+h2 + button{
+	font-size: 20px;
+}
+
+footer > a{
+	color: lightskyblue;
+}
+
+input[type="password"] {
+	color: greenyellow;
+}
+
+a[href*="google"] {
+	color: magenta;
+}
+
